@@ -1,0 +1,2 @@
+# KInaraCapitalAssignment
+Kinara Capital assignment
